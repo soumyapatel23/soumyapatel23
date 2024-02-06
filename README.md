@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soumyapatel23
-- 👀 I’m interested in ...coading
+- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...fullstackjava
 - 💞️ I’m looking to collaborate on ...the project
 - 📫 How to reach me ...soumyakondrikala@gmail.com
